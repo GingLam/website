@@ -20,7 +20,7 @@ mathjax: false
 
 <div align=center><strong><font face="Times New Roman"><h4>Publication</h4></font></strong></div>
 
-*  <font face="Times New Roman"> with Zuyun Liu, 2017, "Theoretical Interpretation of Social Movement and The Historical Evolution of Social Movement in Hong Kong", Academic Research(11)[download](https://raw.githubusercontent.com/GingLam/Storage/master/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E7%90%86%E8%AE%BA%E8%A7%A3%E8%AF%BB%E4%B8%8E%E9%A6%99%E6%B8%AF%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E5%8E%86%E5%8F%B2%E6%BC%94%E5%8F%98.pdf)</font>
+*  <font face="Times New Roman"> with Zuyun Liu, 2017, "Theoretical Interpretation of Social Movement and The Historical Evolution of Social Movement in Hong Kong", Academic Research(11)[ [download] ](https://raw.githubusercontent.com/GingLam/Storage/master/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E7%90%86%E8%AE%BA%E8%A7%A3%E8%AF%BB%E4%B8%8E%E9%A6%99%E6%B8%AF%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E5%8E%86%E5%8F%B2%E6%BC%94%E5%8F%98.pdf)</font>
 
 
 <div align=center><strong><font face="Times New Roman"><h4>Working Paper</h4></font></strong></div>
