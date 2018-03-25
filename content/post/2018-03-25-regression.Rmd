@@ -1,0 +1,35 @@
+---
+title: regression
+author: Ging Lam
+date: '2018-03-25'
+slug: regression
+categories:
+  - regression
+tags:
+  - regression
+---
+
+
+### 6.1 Introduction to Regression Analysis
+#### Import dataset and run a simple regression model.
+```{r}
+library(haven)
+setwd("E:/D-Storage/courses/Research in R/Lecture Notes by Ging Lam/Advanced Regression Analysis")
+china  <- read_dta("ch2_China1996.dta",encoding = "UTF-8")
+dim(china)
+head(china,5)
+china[sample(nrow(china), 5), ] 
+names(china)
+library(Hmisc)
+library(car)
+library(Zelig)
+label(china)
+summary(lm.model0 <- lm(educ_hiy ~ feduc_y,data=china))
+confint(lm.model0)
+scatterplot(educ_hiy ~ feduc_y,data=china,smooth = F)
+summary(lm.model <- lm(educ_hiy ~ feduc_y + meduc_y,data=china))
+(glm.model <- glm(educ_hiy ~ feduc_y + meduc_y,data=china))
+(zelig.model <- zelig(educ_hiy ~ feduc_y + meduc_y, model = "ls", data = china, cite = FALSE))
+library(lm.beta)
+lm.beta(lm.model)
+```
