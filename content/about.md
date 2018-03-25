@@ -9,15 +9,14 @@ weight: 50
 comment: false
 mathjax: false
 ---
-<div align=center>**Education Background**</div>
+<div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
 
-
-<div align=center>**Education Background**</div>
+<div align=center> **Education Background** </div>
 
 *  2016 ~ 2019, Ph.D. in Sociology, Sun Yat-sen University, China
 *  2013 ~ 2016, MA in Sociology, Wuhan University, China
 
-<div align=center>**Education Background**</div>
+<div align=center> **Education Background** </div>
 
 
 
