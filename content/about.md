@@ -11,13 +11,14 @@ mathjax: false
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
 
-<div align=center> **Education Background** </div>
+<div align=center><strong><font face="Times New Roman">Education Background</font></strong></div>
 
-*  2016 ~ 2019, Ph.D. in Sociology, Sun Yat-sen University, China
-*  2013 ~ 2016, MA in Sociology, Wuhan University, China
+*  <font face="Times New Roman">2016 ~ 2019, Ph.D. in Sociology, Sun Yat-sen University, China</font>
+*  <font face="Times New Roman">2013 ~ 2016, MA in Sociology, Wuhan University, China</font>
 
-<div align=center> **Education Background** </div>
+<div align=center> **Research Field** </div>
 
-
-
+*  <font face="Times New Roman">Flexible Employment & Working Poverty</font>
+*  <font face="Times New Roman">Sociological Methodology & Philosophy of Social Sience</font>
+*  <font face="Times New Roman">Advanced Statistics & Computational SOftware</font>
 
