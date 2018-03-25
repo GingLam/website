@@ -108,6 +108,6 @@ copyright = "Ging Lam"            # default: author.name ↓        # 默认为�
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "linj83@mail2.sysu.edu.cn"
+    a-email = "mailto:linj83@mail2.sysu.edu.cn"
     d-facebook = "https://www.facebook.com/ging.lam.96?ref=br_rs"
     g-github = "https://github.com/GingLam"
