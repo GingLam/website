@@ -1,0 +1,13 @@
+---
+title: Regression Analysis in R (Part One)
+author: Ging Lam
+date: '2018-03-25'
+slug: regression-analysis-in-r-part-one
+categories:
+  - statistic
+tags:
+  - R
+  - statistic
+  - regression analysis
+---
+
