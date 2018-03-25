@@ -41,8 +41,8 @@ mathjax: false
 
 *  <font face="Times New Roman">Flexible Employment & Working Poverty</font>
 *  <font face="Times New Roman">Sociological Methodology & Philosophy of Social Sience</font>
-*  <font face="Times New Roman">Advanced Statistics & Computational SOftware</font>
+*  <font face="Times New Roman">Advanced Statistics & Computational Software</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Honors & Awards</h4></font></strong></div>
 
-*  <font face="Times New Roman">2014, Outstanding Student Scholarship, WUhan University</font>
+*  <font face="Times New Roman">2014, Outstanding Student Scholarship, Wuhan University</font>
