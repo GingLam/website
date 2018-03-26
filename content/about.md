@@ -16,11 +16,20 @@ mathjax: false
 
 *  <font face="Times New Roman">2016 ~ 2019, Ph.D. in Sociology, Sun Yat-sen University, China</font>
 *  <font face="Times New Roman">2013 ~ 2016, MA in Sociology, Wuhan University, China</font>
+*  <font face="Times New Roman">2015.9 ~ 2016.1, Exchange Student in Sociology, National Chengchi University, Taiwan, China</font>
+*  <font face="Times New Roman">2009 ~ 2013, MA in Sociology, South China Agricultural University, China</font>
 
+<div align=center><strong><font face="Times New Roman"><h4>Training Experience</h4></font></strong></div>
+
+*  <font face="Times New Roman">2017.7.10 ~ 19, Artificial Society and Computational Sociology, Sun Yat-sen University, Guangzhou, China</font>
+*  <font face="Times New Roman">2017.7.24 ~ 28, Advanced Quantitative Methodology, Peking University, Beijing, China</font>
+*  <font face="Times New Roman">2015.12.28 ~ 30, Special Analysis Workshop, Institute of Political Science at Academia Sinica, Taiwan, China</font>
+*  <font face="Times New Roman">2014.12.18 ~ 26, Applied Social Science Methodology, Hong Kong University of Science and Technology and Shanghai University, Guangzhou, China</font>
+*  <font face="Times New Roman">2014.7.28 ~ 8.25, Research Methodology, Jilin University and ICPSR, Changchun, China</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Publication</h4></font></strong></div>
 
-*  <font face="Times New Roman"> with Zuyun Liu, 2017, "Theoretical Interpretation of Social Movement and The Historical Evolution of Social Movement in Hong Kong", Academic Research(11)[ [download] ](https://raw.githubusercontent.com/GingLam/Storage/master/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E7%90%86%E8%AE%BA%E8%A7%A3%E8%AF%BB%E4%B8%8E%E9%A6%99%E6%B8%AF%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E5%8E%86%E5%8F%B2%E6%BC%94%E5%8F%98.pdf)</font>
+*  <font face="Times New Roman"> with Zuyun Liu, 2017, "Theoretical Interpretation of Social Movement and The Historical Evolution of Social Movement in Hong Kong", Academic Research(11)[ [download](https://raw.githubusercontent.com/GingLam/Storage/master/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E7%90%86%E8%AE%BA%E8%A7%A3%E8%AF%BB%E4%B8%8E%E9%A6%99%E6%B8%AF%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E5%8E%86%E5%8F%B2%E6%BC%94%E5%8F%98.pdf)]</font>
 
 
 <div align=center><strong><font face="Times New Roman"><h4>Working Paper</h4></font></strong></div>
@@ -32,7 +41,7 @@ mathjax: false
 
 <div align=center><strong><font face="Times New Roman"><h4>Work in Progress</h4></font></strong></div>
 
-*  <font face="Times New Roman">2018, "Social Trends of With-in Province Migrants and Cross Province Migrants in China" </font>
+*  <font face="Times New Roman">2018, "Social Trends of Within-province Migrants and Cross-province Migrants in China" </font>
 *  <font face="Times New Roman">2018, "Occupation Mobility and Mix National Identity of Hong Kong" </font>
 *  <font face="Times New Roman">2018, "Flexible Employment and Income Inequality in China" </font>
 
@@ -46,3 +55,10 @@ mathjax: false
 <div align=center><strong><font face="Times New Roman"><h4>Honors & Awards</h4></font></strong></div>
 
 *  <font face="Times New Roman">2014, Outstanding Student Scholarship, Wuhan University</font>
+*  <font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University</font>
+*  <font face="Times New Roman">2011, Outstanding Student Scholarship, South China Agricultural University</font>
+*  <font face="Times New Roman">2010, Outstanding Student Scholarship, South China Agricultural University</font>
+
+<div align=center><strong><font face="Times New Roman"><h4>Software Skills</h4></font></strong></div>
+*  <font face="Times New Roman">Proficient: R, Stata, QGIS, UCNET, Markdown</font>
+*  <font face="Times New Roman">Fluent: Python, LaTeX, M-PLUS, NetLogo, SPSS, JUlia</font>
