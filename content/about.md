@@ -62,4 +62,4 @@ mathjax: false
 <div align=center><strong><font face="Times New Roman"><h4>Software Skills</h4></font></strong></div>
 
 *  <font face="Times New Roman">Proficient: R, Stata, QGIS, UCNET, Markdown</font>
-*  <font face="Times New Roman">Fluent: Python, LaTeX, M-PLUS, NetLogo, SPSS, JUlia</font>
+*  <font face="Times New Roman">Fluent: Python, LaTeX, Mplus, NetLogo, SPSS, JUlia</font>
