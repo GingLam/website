@@ -1,5 +1,5 @@
 baseURL = "https://ginglam.me"
-title = "Ging Lam"
+title = "Ging Lam's Sociological Lab"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-jane"
