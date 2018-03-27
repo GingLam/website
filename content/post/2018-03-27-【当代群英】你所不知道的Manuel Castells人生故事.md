@@ -1,5 +1,5 @@
 ---
-title: 【当代社会学群英】你所不知道的Manuel Castells十则人生故事
+title: 【当代群英】你所不知道的Manuel Castells十则人生故事
 author: Ging Lam
 date: '2018-03-27'
 slug: 当代社会学群英-你所不知道的manuel-castells人生故事
@@ -29,6 +29,8 @@ Castells于1958年在巴塞罗那大学攻读法律和经济学双学位时，�
 * **第一次被驱逐出境，到法国开始求学人生**
 
 Castells到达法国境内后，在无政府建筑工人组织帮助下，获得了政治难民的身份庇护。随后他注册入读巴黎大学索邦校区（Sorbonne）的法律和经济系，并顺利取得公法与政治经济学学位。Castells认为只有在学术界才能取得工作的自由，他四处打听有哪位学者做“劳工阶级社会学”，最后找到了法国社会学新星、巴黎高等社会科学研究院（École des hautes études en sciences socials）的Alain Touraine教授。Castells一心想做的选题是关于西班牙阿斯图里亚（Asturias）矿工大罢工。
+
+<!--more-->
 
 * **父亲般的博士导师，但不许自主论文选题**
 
