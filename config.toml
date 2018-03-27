@@ -43,7 +43,7 @@ copyright = "Ging Lam"            # default: author.name ↓        # 默认为�
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2018"            # Site creation time          # 站点建立时间
+  since = "2017-2018"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
@@ -69,7 +69,7 @@ copyright = "Ging Lam"            # default: author.name ↓        # 默认为�
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = true                                                                            # 是否开启目录
   autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
-  fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
+  fancybox = false           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
   bootcdn = false           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
   mathjax = true           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
