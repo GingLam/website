@@ -31,19 +31,14 @@ copyright = "Ging Lam"            # default: author.name ↓        # 默认为�
   url = "/"
 [[menu.main]]
   name = "Archives"
-  weight = 20
+  weight = 40
   identifier = "archives"
   url = "/post/"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2017-2018"            # Site creation time          # 站点建立时间
+  since = "2017"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
