@@ -65,7 +65,7 @@ copyright = "Ging Lam"            # default: author.name ↓        # 默认为�
   toc = true                                                                            # 是否开启目录
   autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
   fancybox = false           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
-  bootcdn = false           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
+  bootcdn = true           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
   mathjax = true           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
@@ -105,4 +105,4 @@ copyright = "Ging Lam"            # default: author.name ↓        # 默认为�
   [params.social]                                         # 社交链接
     a-email = "mailto:linj83@mail2.sysu.edu.cn"
     d-facebook = "https://www.facebook.com/ging.lam.96?ref=br_rs"
-    g-github = "https://github.com/GingLam"
+#    g-github = "https://github.com/GingLam"
