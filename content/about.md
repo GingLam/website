@@ -21,6 +21,7 @@ mathjax: false
 
 <div align=center><strong><font face="Times New Roman"><h4>Training Experience</h4></font></strong></div>
 
+-	<font face="Times New Roman">2017.7.9 ~ 20, Causal Inference and Causal Mediation Analysis, Peking University, Beijing</font>
 -	<font face="Times New Roman">2017.7.10 ~ 19, Artificial Society and Computational Sociology, Sun Yat-sen University, Guangzhou</font>
 -	<font face="Times New Roman">2017.7.24 ~ 28, Advanced Quantitative Methodology, Peking University, Beijing</font>
 -	<font face="Times New Roman">2015.12.28 ~ 30, Special Analysis Workshop, Institute of Political Science at Academia Sinica, Taiwan</font>
@@ -55,6 +56,7 @@ mathjax: false
 
 <div align=center><strong><font face="Times New Roman"><h4>Honors & Awards</h4></font></strong></div>
 
+-	<font face="Times New Roman">2018, Award for Dissertation, Peking University - Lincoln Institute</font>
 -	<font face="Times New Roman">2014, Outstanding Student Scholarship, Wuhan University</font>
 -	<font face="Times New Roman">2013, Outstanding Student Scholarship, South China Agricultural University</font>
 -	<font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University</font>
