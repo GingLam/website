@@ -36,7 +36,7 @@ mathjax: false
 
 <div align=center><strong><font face="Times New Roman"><h4>Working Paper</h4></font></strong></div>
 
--	<font face="Times New Roman">2018, "Flexible Employment, Low Quality Occupation, and Working Poor in Hong Kong" </font>
+-	<font face="Times New Roman">2018, "Flexible Employment, Low Quality Occupation, and the Working Poor in Hong Kong" </font>
 -	<font face="Times New Roman">2017, "Occupation Stratification, Living Stratification, and Muti-dimentional Poverty in China" </font>
 -	<font face="Times New Roman">2017, "History of Thought of Nationality in China: A Critical Realism Approach" </font>
 
