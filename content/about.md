@@ -55,9 +55,9 @@ mathjax: false
 -	<font face="Times New Roman">Advanced Statistics & Computational Software</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Honors & Awards</h4></font></strong></div>
-
+-	<font face="Times New Roman">2018, Outstanding Graduate Student Scholarship, Sun Yat-sen University</font>
 -	<font face="Times New Roman">2018, Award for Dissertation, Peking University - Lincoln Institute</font>
--	<font face="Times New Roman">2014, Outstanding Student Scholarship, Wuhan University</font>
+-	<font face="Times New Roman">2014, Outstanding Graduate Student Scholarship, Wuhan University</font>
 -	<font face="Times New Roman">2013, Outstanding Student Scholarship, South China Agricultural University</font>
 -	<font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University</font>
 -	<font face="Times New Roman">2010, Outstanding Student Scholarship, South China Agricultural University</font>
