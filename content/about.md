@@ -38,7 +38,7 @@ mathjax: false
 
 -	<font face="Times New Roman">2018, "Flexible Employment, Low Quality Occupation, and the Working Poor in Hong Kong" </font>
 -	<font face="Times New Roman">2017, "Occupation Stratification, Living Stratification, and Muti-dimentional Poverty in China" </font>
--	<font face="Times New Roman">2017, "History of Thought of Nationality in China: A Critical Realism Approach" </font>
+-	<font face="Times New Roman">2017, "History of Nationality in China: A Critical Realism Approach" </font>
 
 
 <div align=center><strong><font face="Times New Roman"><h4>Work in Progress</h4></font></strong></div>
@@ -58,9 +58,9 @@ mathjax: false
 
 -	<font face="Times New Roman">2018, Outstanding Graduate Student Scholarship, Sun Yat-sen University</font>
 -	<font face="Times New Roman">2018, Award for Dissertation, Peking University - Lincoln Institute</font>
--	<font face="Times New Roman">2014, Outstanding Graduate Student Scholarship, Wuhan University</font>
+-	<font face="Times New Roman">2014, Outstanding Graduate Student Scholarship, Wuhan University[[link](http://info.whu.edu.cn/info/1639/35293.htm)]</font>
 -	<font face="Times New Roman">2013, Outstanding Student Scholarship, South China Agricultural University</font>
--	<font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University</font>
+-	<font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University[[link](http://www.scau.edu.cn/_upload/article/files/22/e9/2f4986644a359e3b1d320e63ab7c/e0174fb4-e75d-4749-9d60-83739871b0d6.doc)]</font>
 -	<font face="Times New Roman">2010, Outstanding Student Scholarship, South China Agricultural University</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Software Skills</h4></font></strong></div>
