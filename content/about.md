@@ -16,7 +16,7 @@ mathjax: false
 
 -	<font face="Times New Roman">2016 ~ 2019, Ph.D. in Sociology, Sun Yat-sen University, Guangzhou</font>
 -	<font face="Times New Roman">2013 ~ 2016, MA in Sociology, Wuhan University, Wuhan</font>
-	-	<font face="Times New Roman">2015.9 ~ 2016.1, Exchange Student in Sociology, National Chengchi University, Taiwan</font>
+	-	<font face="Times New Roman">2015.9 ~ 2016.1, Exchange Student in Sociology, National Chengchi University, Taipei</font>
 -	<font face="Times New Roman">2009 ~ 2013, BA in Sociology, South China Agricultural University, Guangzhou</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Training Experience</h4></font></strong></div>
