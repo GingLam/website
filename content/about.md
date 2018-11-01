@@ -66,6 +66,7 @@ mathjax: false
 <div align=center><strong><font face="Times New Roman"><h4>Programming Skills</h4></font></strong></div>
 
 
--	<font face="Times New Roman">Developed Stata Module: isco2isei08, isco88to08, isco08to88(used to recode ISCO-88 into ISCO-08 and recode ISCO-08 into ISEI-08) [[download](https://git.io/fxbLk)]</font>
+-	<font face="Times New Roman">Developed Stata Module: isco2isei08, isco88to08, isco08to88 [[download](https://git.io/fxbLk)]</font>
+        <font face="Times New Roman">(used to recode ISCO-88 into ISCO-08 and recode ISCO-08 into ISEI-08) </font>
 -	<font face="Times New Roman">Proficient: R, Stata, QGIS, UCNET, Markdown</font>
 -	<font face="Times New Roman">Fluent: Python, LaTeX, Mplus, NetLogo, Julia, HTML5</font>
