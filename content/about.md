@@ -63,9 +63,9 @@ mathjax: false
 -	<font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University [[link](http://www.scau.edu.cn/_upload/article/files/22/e9/2f4986644a359e3b1d320e63ab7c/e0174fb4-e75d-4749-9d60-83739871b0d6.doc)]</font>
 -	<font face="Times New Roman">2010, Outstanding Student Scholarship, South China Agricultural University</font>
 
-<div align=center><strong><font face="Times New Roman"><h4>Software Skills</h4></font></strong></div>
+<div align=center><strong><font face="Times New Roman"><h4>Programming Skills</h4></font></strong></div>
 
 
--	<font face="Times New Roman">Developed Stata Module: isco2isei08, isco88to08, isco08to88 [[download](https://git.io/fxbLk)]</font>
+-	<font face="Times New Roman">Developed Stata Module: isco2isei08, isco88to08, isco08to88(used to recode ISCO-88 into ISCO-08 and recode ISCO-08 into ISEI-08) [[download](https://git.io/fxbLk)]</font>
 -	<font face="Times New Roman">Proficient: R, Stata, QGIS, UCNET, Markdown</font>
--	<font face="Times New Roman">Fluent: Python, LaTeX, Mplus, NetLogo, SPSS, Julia</font>
+-	<font face="Times New Roman">Fluent: Python, LaTeX, Mplus, NetLogo, Julia, HTML5</font>
