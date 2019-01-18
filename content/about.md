@@ -29,7 +29,7 @@ mathjax: false
 -	<font face="Times New Roman">2014.7.28 ~ 8.25, Research Methodology, Jilin University and ICPSR, Changchun</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Publication</h4></font></strong></div>
-
+-	<font face="Times New Roman">with Zuyun Liu, 2019, "Social Transformation and the Evolution of Poverty: A Comparative Study of Urban Microdata between Hong Kong and Mainland China", Jiangsu Social Science(forthcoming)</font>
 -	<font face="Times New Roman">with Zuyun Liu, 2017, "Theoretical Interpretation of Social Movement and The Historical Evolution of Social Movement in Hong Kong", Academic Research(11)[[download](https://raw.githubusercontent.com/GingLam/Storage/master/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E7%90%86%E8%AE%BA%E8%A7%A3%E8%AF%BB%E4%B8%8E%E9%A6%99%E6%B8%AF%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%9A%84%E5%8E%86%E5%8F%B2%E6%BC%94%E5%8F%98.pdf)]; reprinted in 2017, Zuyun Liu(eds.), Hong Kong and Macao Society: A Reader with Developmental Perspective, p163-180; reprinted in 2018, Taiwan, Hong Kong and Macao Studies(selected high-level articles of Renmin University)(3)[[download](https://raw.githubusercontent.com/GingLam/Storage/master/%E4%BA%BA%E5%A4%A7%E5%A4%8D%E5%8D%B0%E5%88%8A%E7%89%A9.pdf)]</font>
 -	<font face="Times New Roman">2015, "Concepts and Theories of Social Governance", in Wei Xu(eds.), Theories and Practices of Rural Community Goverance, Wuhan University Press[[download](https://raw.githubusercontent.com/GingLam/Storage/master/%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%90%86%E8%AE%BA%E8%BE%A8%E6%9E%90.pdf)]</font>
 
@@ -56,7 +56,8 @@ mathjax: false
 
 <div align=center><strong><font face="Times New Roman"><h4>Honors & Awards</h4></font></strong></div>
 
--	<font face="Times New Roman">2018, Outstanding Graduate Student Scholarship, Sun Yat-sen University [[link](https://git.io/fxF86)]</font>
+-	<font face="Times New Roman">2019, Henry Fok Foundation for Ph.D. Student Innovvation Research of Hong Kong and Macao, Sun Yat-sen University</font>
+-	<font face="Times New Roman">2018, Outstanding Graduate Student Scholarship, Sun Yat-sen University [[link](http://graduate.sysu.edu.cn/docs/2018-11/20181129112914900395.xls)]</font>
 -	<font face="Times New Roman">2018, Award for Dissertation, Peking University - Lincoln Institute [[link](https://mp.weixin.qq.com/s/QS2p_dlXA9Z_fHbAuetx-Q)]</font>
 -	<font face="Times New Roman">2014, Outstanding Graduate Student Scholarship, Wuhan University [[link](http://info.whu.edu.cn/info/1639/35293.htm)]</font>
 -	<font face="Times New Roman">2013, Outstanding Student Scholarship, South China Agricultural University</font>
