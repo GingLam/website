@@ -11,7 +11,7 @@ mathjax: false
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
 
-<div align=center><strong><font face="Times New Roman"><h4> [[CV](https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV.pdf)]</h4></font></strong></div>
+<h4> [[CV](https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV.pdf)]</h4>
 
 <div align=center><strong><font face="Times New Roman"><h4>Education Background</h4></font></strong></div>
 
