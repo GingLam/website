@@ -10,7 +10,7 @@ comment: false
 mathjax: false
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
-<div align=center><strong><font face="Times New Roman"><h4><a href="xxx.html">这是一个链接</a></h4></font></strong></div>
+<div align=center><strong><font face="Times New Roman"><h4><a href="https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV.pdf">[detailed CV]</a></h4></font></strong></div>
 <div align=center><strong><font face="Times New Roman"><h4>Education Background</h4></font></strong></div>
 
 -	<font face="Times New Roman">2016 ~ 2019, Ph.D. in Sociology, Sun Yat-sen University, Guangzhou</font>
@@ -71,6 +71,4 @@ mathjax: false
 -	<font face="Times New Roman">Proficient: R, Stata, QGIS, UCNET, Markdown</font>
 -	<font face="Times New Roman">Fluent: Python, LaTeX, Mplus, NetLogo, Julia, HTML5</font>
 
-<div align=right>[[detailed CV](https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV.pdf)]
-</div>
 
