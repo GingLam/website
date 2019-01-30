@@ -11,6 +11,7 @@ mathjax: false
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
 
+<div align=center><strong><font face="Times New Roman"><h4> [[CV](https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV.pdf)]</h4></font></strong></div>
 
 <div align=center><strong><font face="Times New Roman"><h4>Education Background</h4></font></strong></div>
 
@@ -38,7 +39,7 @@ mathjax: false
 <div align=center><strong><font face="Times New Roman"><h4>Working Paper</h4></font></strong></div>
 
 -	<font face="Times New Roman">2018, "Flexible Employment, Low Quality Occupation, and the Working Poor in Hong Kong" </font>
--	<font face="Times New Roman">2017, "Occupation Stratification, Living Stratification, and Muti-dimentional Poverty in China" </font>
+-	<font face="Times New Roman">2017, "Occupation Stratification, Living Stratification, and Multi-dimensional  Poverty in China" </font>
 -	<font face="Times New Roman">2017, "History of Nationality in China: A Critical Realism Approach" </font>
 
 
@@ -52,14 +53,14 @@ mathjax: false
 <div align=center><strong><font face="Times New Roman"><h4>Research Fields</h4></font></strong></div>
 
 -	<font face="Times New Roman">Flexible Employment & Working Poverty</font>
--	<font face="Times New Roman">Sociological Methodology & Philosophy of Social Sience</font>
+-	<font face="Times New Roman">Sociological Methodology & Philosophy of Social Science</font>
 -	<font face="Times New Roman">Advanced Statistics & Computational Software</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Honors & Awards</h4></font></strong></div>
 
--	<font face="Times New Roman">2019, Henry Fok Foundation for Ph.D. Student Innovvation Research of Hong Kong and Macao, Sun Yat-sen University</font>
+-	<font face="Times New Roman">2019, Henry Fok Scholarship for Ph.D. Student Innovation Research of Hong Kong and Macao, Sun Yat-sen University</font>
 -	<font face="Times New Roman">2018, Outstanding Graduate Student Scholarship, Sun Yat-sen University [[link](http://graduate.sysu.edu.cn/docs/2018-11/20181129112914900395.xls)]</font>
--	<font face="Times New Roman">2018, Award for Dissertation, Peking University - Lincoln Institute [[link](https://mp.weixin.qq.com/s/QS2p_dlXA9Z_fHbAuetx-Q)]</font>
+-	<font face="Times New Roman">2018, Lincoln Thesis Scholarship, Peking University - Lincoln Institute [[link](https://mp.weixin.qq.com/s/QS2p_dlXA9Z_fHbAuetx-Q)]</font>
 -	<font face="Times New Roman">2014, Outstanding Graduate Student Scholarship, Wuhan University [[link](http://info.whu.edu.cn/info/1639/35293.htm)]</font>
 -	<font face="Times New Roman">2013, Outstanding Student Scholarship, South China Agricultural University</font>
 -	<font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University [[link](http://www.scau.edu.cn/_upload/article/files/22/e9/2f4986644a359e3b1d320e63ab7c/e0174fb4-e75d-4749-9d60-83739871b0d6.doc)]</font>
