@@ -71,4 +71,6 @@ mathjax: false
 -	<font face="Times New Roman">Proficient: R, Stata, QGIS, UCNET, Markdown</font>
 -	<font face="Times New Roman">Fluent: Python, LaTeX, Mplus, NetLogo, Julia, HTML5</font>
 
-[[detailed CV](https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV.pdf)]
+<div align=right>[[detailed CV](https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV.pdf)]
+</div>
+
