@@ -1,8 +1,8 @@
 ---
-title: 重读10年前Yoosoon Chang在Peter C. B. Phillips寿宴上的致辞
+title: 重读10年前Yoosoon Chang回忆Peter C. B. Phillips的指导
 author: GingLam
 date: '2019-02-10'
-slug: 重读10年前Yoosoon Chang在Peter C. B. Phillips寿宴上的致辞
+slug: 重读10年前Yoosoon Chang回忆Peter C. B. Phillips的指导
 categories:
   - Sociology
 tags: []
