@@ -1,8 +1,8 @@
 ---
-title: 重读10年前Yoosoon Chang回忆Peter C. B. Phillips的指导
+title: Yoosoon Chang回忆Peter C. B. Phillips的指导
 author: GingLam
 date: '2019-02-10'
-slug: 重读10年前Yoosoon Chang回忆Peter C. B. Phillips的指导
+slug: Yoosoon Chang回忆Peter C. B. Phillips的指导
 categories:
   - Sociology
 tags: []
@@ -21,11 +21,11 @@ mathjax: no
 </div>
 
 
-这则故事最早是从兰小欢老师的[《一转念》](https://www.amazon.cn/dp/B0056XI6DE)中看到的，那时我还在武汉上学。今天，这则故事对我有特别的意义。原文是2008年Yoosoon Chang在Peter C. B. Phillips寿宴上的致辞。Peter C. B. Phillips是耶鲁大学[Sterling教授](https://www.wikiwand.com/en/Sterling_Professor)，几乎就是“时间序列分析”的代名词。Yoosoon Chang是印第安纳大学布卢明顿分校经济系正教授。Peter C. B. Phillips是真正意义上的桃李满天下，迄今直接指导过[84名](http://korora.econ.yale.edu/phillips/teach/students.pdf)博士生，95%以上在一流研究型大学任职。我在无数的文章和通讯中读过对Peter C. B. Phillips作为导师的评价，他是一位彻底的good mentor。
+这则故事最早是从兰小欢老师的[《一转念》](https://www.amazon.cn/dp/B0056XI6DE)中看到的，那时我还在武汉上学。今天，这则故事对我有特别的意义。原文是2008年[Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html)在[Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/)寿宴上的致辞。Peter C. B. Phillips是耶鲁大学[Sterling教授](https://www.wikiwand.com/en/Sterling_Professor)，几乎就是“时间序列分析”的代名词。Yoosoon Chang是印第安纳大学布卢明顿分校经济系正教授。Peter C. B. Phillips是真正意义上的桃李满天下，迄今直接指导过[84名](http://korora.econ.yale.edu/phillips/teach/students.pdf)博士生，95%以上在一流研究型大学任职。我在无数的文章和通讯中读过对Peter C. B. Phillips作为导师的评价，他是一位彻底的good mentor。
 
-**回忆[Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/)的指导**
+**回忆Peter C. B. Phillips的指导**
 
-**作者：[Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html)**
+**作者：Yoosoon Chang**
 
 **翻译：Ging Lam**
 
