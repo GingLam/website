@@ -1,8 +1,8 @@
 ---
-title: Alan Krueger：天生英才的经济学家
+title: Alan Krueger，经济学的天生英才
 author: GingLam
 date: '2019-03-21'
-slug: Alan Krueger：天生英才的经济学家
+slug: Alan Krueger，经济学的天生英才
 categories:
   - Sociology
 tags: []
