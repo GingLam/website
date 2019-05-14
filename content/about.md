@@ -71,4 +71,4 @@ mathjax: false
 -	<font face="Times New Roman">Proficient: R, Stata, QGIS, UCNET, Markdown</font>
 -	<font face="Times New Roman">Fluent: Python, LaTeX, Mplus, NetLogo, Julia, HTML5</font>
 
-<div align=center><strong><font face="Times New Roman"><a href="https://raw.githubusercontent.com/GingLam/Storage/master/Jing%20Lin%20CV%202019%20Feb.pdf">[detailed CV]</a></font></strong></div>
+<div align=center><strong><font face="Times New Roman"><a href="https://git.io/fjWbu">[detailed CV]</a></font></strong></div>
