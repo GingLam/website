@@ -52,6 +52,7 @@ mathjax: false
 
 -	<font face="Times New Roman">Flexible Employment & Working Poverty</font>
 -	<font face="Times New Roman">Sociological Methodology & Philosophy of Social Science</font>
+-	<font face="Times New Roman">Empirical Implications of Theoretical Models</font>
 -	<font face="Times New Roman">Advanced Statistics & Computational Software</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Honors & Awards</h4></font></strong></div>
