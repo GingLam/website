@@ -1,8 +1,8 @@
 ---
-title: Josh Angrist：一位自然实验的经济学家（二）
+title: Josh Angrist：推崇自然实验的经济学家（二）
 author: GingLam
 date: '2019-03-13'
-slug: Josh Angrist：一位自然实验的经济学家（二）
+slug: Josh Angrist：推崇自然实验的经济学家（二）
 categories:
   - Sociology
 tags: []
