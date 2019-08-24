@@ -20,7 +20,7 @@ mathjax: no
 <div align=center>
 </div>
 
-**作者：**
+**作者：Peter V. Marsden**
 
 **翻译：Ging Lam**
 
