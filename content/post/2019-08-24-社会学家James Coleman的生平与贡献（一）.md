@@ -24,7 +24,7 @@ mathjax: no
 
 **翻译：Ging Lam**
 
-**本文译自*[Annual Review of Sociology](https://www.newyorker.com/magazine)*2005年第31期**
+**本文译自[*Annual Review of Sociology*](https://www.newyorker.com/magazine)2005年第31期**
 
 本文回顾了James Coleman的非凡学术事业和成就，追溯其对后续研究的贡献，并重点关注1995年以后的文献对其作出的评价和定位。作为一名研究社会组织问题的学者，Coleman在教育社会学、政策研究、数理社会学、网络/结构分析以及社会学理论等领域获得了堪称巨大的成绩。可见Coleman在不同学术生涯的著作早已被社会学、教育学、经济学、工商/管理学以及其他社会科学的同行广泛引用。并且在过去十年间，Coleman关于社会资本的概念厘定工作更具有十足的影响力。而他曾经广受争议的著作《社会理论的基础》如今也获得越来越密集的关注，并为理性选择分析在社会学中谋得一个有限但稳定的学术地位起到不可磨灭的作用。
 
