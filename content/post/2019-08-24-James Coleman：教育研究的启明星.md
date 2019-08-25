@@ -29,7 +29,7 @@ mathjax: no
 **翻译：Ging Lam**
 
 **本文系[*Education Next*](https://www.educationnext.org/revisiting-the-coleman-report/
-)杂志纪念《Coleman报告》发表50周年刊登的系列评论文章之一。**
+)杂志纪念《Coleman报告》发表50周年的系列评论之一。**
 
 曾有资深同事告诉我，一位学者能称得上明星，至少要包含5方面条件。尽管此前我曾竭尽全力想将此条件修饰为1个方面。但对James Coleman而言，即使按照最严苛的标准，他毫无疑问仍属于明星行列。因为仅看他对学校研究做出的贡献，我们也能轻而易举数出5个方面来。
 
