@@ -1,12 +1,12 @@
 ---
 title: 社会学家James Coleman的生平与贡献（一）
 author: GingLam
-date: '2019-08-24'
+date: '2019-08-23'
 slug: 社会学家James Coleman的生平与贡献（一）
 categories:
   - Sociology
 tags: []
-lastmod: '2019-08-24T15:15:24+08:00'
+lastmod: '2019-08-23T15:15:24+08:00'
 keywords: []
 description: ''
 comment: no
