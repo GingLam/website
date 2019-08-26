@@ -1,12 +1,12 @@
 ---
 title: James Coleman：教育研究的启明星
 author: GingLam
-date: '2019-08-25'
+date: '2019-08-24'
 slug: James Coleman：教育研究的启明星
 categories:
   - Sociology
 tags: []
-lastmod: '2019-08-25T14:37:24+08:00'
+lastmod: '2019-08-24T14:37:24+08:00'
 keywords: []
 description: ''
 comment: no
