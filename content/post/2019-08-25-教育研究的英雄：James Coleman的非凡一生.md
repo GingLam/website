@@ -24,7 +24,7 @@ mathjax: no
 
 **翻译：Ging Lam**
 
-**本文系[*Education Next*](https://www.educationnext.org/revisiting-the-coleman-report/)杂志纪念《Coleman报告》发表50周年刊登的系列评论文章之一。**
+**本文系[*Education Next*](https://www.educationnext.org/revisiting-the-coleman-report/)杂志纪念《Coleman报告》发表50周年的系列评论之一。**
 
 如果仅从早期教育经历来判断，James Coleman能同时成为20世纪最杰出的社会学家和若干最有影响力的教育研究著作的作者，这无疑是令人吃惊的！
 
