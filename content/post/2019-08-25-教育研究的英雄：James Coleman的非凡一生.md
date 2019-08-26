@@ -1,12 +1,12 @@
 ---
 title: 教育研究的英雄：James Coleman的非凡一生
 author: GingLam
-date: '2019-08-26'
+date: '2019-08-25'
 slug: 教育研究的英雄：James Coleman的非凡一生
 categories:
   - Sociology
 tags: []
-lastmod: '2019-08-26T01:03:24+08:00'
+lastmod: '2019-08-25T01:03:24+08:00'
 keywords: []
 description: ''
 comment: no
