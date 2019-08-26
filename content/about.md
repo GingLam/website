@@ -11,6 +11,10 @@ mathjax: false
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
 
+<div align=center><strong><font face="Times New Roman"><h4>Employment</h4></font></strong></div>
+
+-	<font face="Times New Roman">2019 ~ Present, Assistant Professor, Department of Social Work, Nanjing University Of Finance & Economics, Nanjing</font>
+
 <div align=center><strong><font face="Times New Roman"><h4>Education Background</h4></font></strong></div>
 
 -	<font face="Times New Roman">2016 ~ 2019, Ph.D. in Sociology, Sun Yat-sen University, Guangzhou</font>
@@ -59,7 +63,7 @@ mathjax: false
 
 -	<font face="Times New Roman">2019, Henry Fok Scholarship for Ph.D. Student Innovation Research of Hong Kong and Macao, Sun Yat-sen University</font>
 -	<font face="Times New Roman">2018, Outstanding Graduate Student Scholarship, Sun Yat-sen University [[link](http://graduate.sysu.edu.cn/docs/2018-11/20181129112914900395.xls)]</font>
--	<font face="Times New Roman">2018, Lincoln Thesis Scholarship, Peking University - Lincoln Institute [[link](https://mp.weixin.qq.com/s/QS2p_dlXA9Z_fHbAuetx-Q)]</font>
+-	<font face="Times New Roman">2018, Lincoln Thesis Scholarship, Peking University - Lincoln Institute [[link 1](http://plc.pku.edu.cn/zh-hans/%E5%85%AC%E5%91%8A%E4%B8%A8%E5%8C%97%E5%A4%A7-%E6%9E%97%E8%82%AF%E4%B8%AD%E5%BF%832018-2019%E5%B9%B4%E5%BA%A6%E5%9F%BA%E9%87%91%E8%AF%84%E5%AE%A1%E7%BB%93%E6%9E%9C)] [[link 2](https://mp.weixin.qq.com/s/QS2p_dlXA9Z_fHbAuetx-Q)]</font>
 -	<font face="Times New Roman">2014, Outstanding Graduate Student Scholarship, Wuhan University [[link](http://info.whu.edu.cn/info/1639/35293.htm)]</font>
 -	<font face="Times New Roman">2013, Outstanding Student Scholarship, South China Agricultural University</font>
 -	<font face="Times New Roman">2012, Outstanding Student Scholarship, South China Agricultural University [[link](http://www.scau.edu.cn/_upload/article/files/22/e9/2f4986644a359e3b1d320e63ab7c/e0174fb4-e75d-4749-9d60-83739871b0d6.doc)]</font>
