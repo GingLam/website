@@ -1,8 +1,8 @@
 ---
-title: 后真相时代的公共社会学：对抗假新闻的Project Censored
+title: 后真相时代的公共社会学：对抗假新闻和新闻审查的Project Censored
 author: GingLam
 date: '2019-08-29'
-slug: 后真相时代的公共社会学：对抗假新闻的Project Censored
+slug: 后真相时代的公共社会学：对抗假新闻和新闻审查的Project Censored
 categories:
   - Sociology
 tags: []
@@ -30,7 +30,7 @@ Project Censored，一个致力于监督媒体的非盈利组织这样陈述他�
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/Storage/master/project.jpg"></div>
 <div align=center>
 </div>
-***图片转自Project Censored2019年出版的[年度报告](https://fanyi.sogou.com/#auto/zh-CHS/)。报告指出，当前全球范围内企业媒体(corporate media)利用垃圾信息干扰新闻已到了令人发指的地步。***
+***图片转自Project Censored2019年出版的[年度报告](https://fanyi.sogou.com/#auto/zh-CHS/)。报告指出，当前全球范围内企业化媒体(corporate media)在利用垃圾信息干扰新闻和接受利益输送审查新闻方面，已到了令人发指的地步。***
 
 **本文译自年度报告的发刊词《后真相世代的两难困境（The Post-Truth Dilemma）》。**
 
