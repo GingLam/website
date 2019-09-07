@@ -34,9 +34,9 @@ Project Censored，一个致力于监督媒体的非盈利组织这样陈述他�
 
 **本文译自年度报告的发刊词《后真相世代的两难困境（The Post-Truth Dilemma）》。**
 
-**作者：Abby Martin
+**作者：Abby Martin**
 
-**翻译：Ging Lam
+**翻译：Ging Lam**
 
 Trump令人吃惊的胜选使一贯顽固的华府陷入了混乱，他们把Hillary的历史性失败归咎于每一个人和每一件事——包括我。
 
