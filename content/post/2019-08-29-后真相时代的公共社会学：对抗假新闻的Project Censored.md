@@ -21,7 +21,7 @@ mathjax: no
 </div>
 ***图片转自[DAILY BEAST](https://www.thedailybeast.com/how-the-right-co-opted-fake-news)***
 
-Project Censored，一个致力于监督媒体的非盈利组织这样陈述他们的新闻观念：“新闻本身并不会告诉你它们如何被创作，它们何以这样被创作”。该组织认为，教育民众充分认识何为真实和自由的新闻及其对民主自治之重要性，是一项必要而崇高的使命。秉持这样的使命，Project Censored在过去的40多年不仅竭力揭露无数阻碍新闻自由的审查制度，还鼓励和支持各种独立的新闻调查报导。与此同时，Project Censored借助其运营的网站、广播和出版物，为提高媒体职业素养和培育公众批判性思维提供了不可或缺的知识平台。回顾Project Censored发展历程，以媒介研究著称的Sonoma State University社会学系荣休教授、Project Censored创始人Carl Jensen（1929—2015）功不可没。UC Berkeley社会学家Michael Burawoy曾在一系列演讲中称赞Project Censored，称之为公共社会学的典范。
+Project Censored，一个致力于监督媒体的非盈利组织将他们工作目标定位为揭露“没有成为新闻的新闻及其原因（The News that Didn't Make the News and Why）”。该组织认为，教育民众充分认识何为真实和自由的新闻及其对民主自治之重要性，是一项必要而崇高的使命。秉持这样的使命，Project Censored在过去的40多年不仅竭力揭露无数阻碍新闻自由的审查制度，还鼓励和支持各种独立的新闻调查报导。与此同时，Project Censored借助其运营的网站、广播和出版物，为提高媒体职业素养和培育公众批判性思维提供了不可或缺的知识平台。回顾Project Censored发展历程，以媒介研究著称的Sonoma State University社会学系荣休教授、Project Censored创始人Carl Jensen（1929—2015）功不可没。UC Berkeley社会学家Michael Burawoy曾在一系列演讲中称赞Project Censored，称之为公共社会学的典范。
 
 2019年，Project Censored年度报告选题为“抗击假新闻入侵（Fighting the Fake News Invasion）”。通过这一报告，我们似乎看到当今在社会成员互不信任的后真相时代，公共社会学可以做些什么。
 
