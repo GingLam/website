@@ -21,7 +21,7 @@ mathjax: no
 </div>
 ***图片转自[DAILY BEAST](https://www.thedailybeast.com/how-the-right-co-opted-fake-news)***
 
-Project Censored，一个致力于监督媒体的非盈利组织这样陈述他们的新闻观念：“新闻本身并不会告诉你它们如何被创作，它们何以这样被创作”。该组织认为，教育民众充分认识何为真实和自由的新闻及其对民主自治之重要性，是一项必要而崇高的使命。秉持这样的使命，Project Censored在过去的40多年不仅竭力揭露无数阻碍新闻自由的审查制度，还鼓励和支持各种独立的新闻调查报导。与此同时，Project Censored借助其运营的网站、广播和出版物，为提高媒体职业素养和培育公众批判性思维提供了不可或缺的知识平台。回顾Project Censored发展历程，以媒介研究著称的Sonoma State University社会学系荣休教授也即创始人Carl Jensen功不可没。著名社会学家Michael Burawoy曾在一系列演讲中称赞Project Censored，称之为不公共社会学的典范。
+Project Censored，一个致力于监督媒体的非盈利组织这样陈述他们的新闻观念：“新闻本身并不会告诉你它们如何被创作，它们何以这样被创作”。该组织认为，教育民众充分认识何为真实和自由的新闻及其对民主自治之重要性，是一项必要而崇高的使命。秉持这样的使命，Project Censored在过去的40多年不仅竭力揭露无数阻碍新闻自由的审查制度，还鼓励和支持各种独立的新闻调查报导。与此同时，Project Censored借助其运营的网站、广播和出版物，为提高媒体职业素养和培育公众批判性思维提供了不可或缺的知识平台。回顾Project Censored发展历程，以媒介研究著称的Sonoma State University社会学系荣休教授、Project Censored创始人Carl Jensen（1929—2015）功不可没。UC Berkeley社会学家Michael Burawoy曾在一系列演讲中称赞Project Censored，称之为公共社会学的典范。
 
 2019年，Project Censored年度报告选题为“抗击假新闻入侵（Fighting the Fake News Invasion）”。通过这一报告，我们似乎看到当今在社会成员互不信任的后真相时代，公共社会学可以做些什么。
 
@@ -76,6 +76,6 @@ Project Censored的价值在于，它坚定不移地为公众游说，揭露企�
 
 2018年是寡头们试图扼杀替代性媒体和对抗性报道的开篇。媒体巨头和政治家们正在寻找新的方式来审查几乎所有网络平台上的独立新闻，或者打击“假新闻”和“外国宣传”。对于面临这种新攻击的说真话者和研究人员来说，“被审查项目”及其年度著作是一个至关重要的工具，将需要被了解和努力调查的关键问题摆在台面上来，是“后真相”时代每一个人了解社会真相的基本指南。
 
-[^1]: 企业化媒体（corporate media）指生产、制作、发行及其资金来源和所有权均取决于企业及其CEO意志的一类大众媒体。
+[^1]: 企业化媒体（corporate media）指生产、制作、发行及幕后资金来源和决策权均取决于企业及CEO意志的一类大众媒体。
 
 ### 版权所有，转载请联系本站[作者](mailto:linj83@mail2.sysu.edu.cn)
