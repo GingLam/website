@@ -27,7 +27,7 @@ mathjax: false
 -	<font face="Times New Roman">2018.7.9 ~ 20, Causal Inference and Causal Mediation Analysis, Peking University, Beijing</font>
 -	<font face="Times New Roman">2017.7.10 ~ 19, Artificial Society and Computational Sociology, Sun Yat-sen University, Guangzhou</font>
 -	<font face="Times New Roman">2017.7.24 ~ 28, Advanced Quantitative Methodology, Peking University, Beijing</font>
--	<font face="Times New Roman">2015.12.28 ~ 30, Spatial Analysis Workshop, Institute of Political Science at Academia Sinica, Taiwan</font>
+-	<font face="Times New Roman">2015.12.28 ~ 30, Spatial Analysis Workshop, Institute of Political Science at Academia Sinica, Taipei</font>
 -	<font face="Times New Roman">2014.12.18 ~ 26, Applied Social Science Methodology, Hong Kong University of Science and Technology and Shanghai University, Guangzhou</font>
 -	<font face="Times New Roman">2014.7.28 ~ 8.25, Research Methodology, Jilin University and ICPSR, Changchun</font>
 
