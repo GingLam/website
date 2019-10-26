@@ -19,6 +19,7 @@ mathjax: no
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/Storage/master/duflo.jpg"></div>
 <div align=center>
 </div>
+
 **图片来自全球发展中心（Center for Global Development）**
 
 **作者：Esther Duflo**
