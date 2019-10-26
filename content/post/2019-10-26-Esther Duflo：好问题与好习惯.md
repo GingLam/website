@@ -18,14 +18,14 @@ mathjax: no
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/Storage/master/duflo.jpg"></div>
 <div align=center>
-**图片来自全球发展中心（Center for Global Development）**
 </div>
+**图片来自全球发展中心（Center for Global Development）**
 
 **作者：Esther Duflo**
 
 **翻译：Ging Lam**
 
-**本文翻译自Esther Duflo在2011年为美国经济学会的"经济学学术生涯中的女性地位委员会（Committee on the Status of Women In the Economics Profession）"所做的演讲"[How to Find the Right Questions](https://promarket.org/esther-duflo-how-to-find-the-right-questions/)。"**
+**本文翻译自Esther Duflo在2011年为美国经济学会的"经济学学术生涯中的女性地位委员会（Committee on the Status of Women In the Economics Profession）"所做的演讲"[How to Find the Right Questions](https://promarket.org/esther-duflo-how-to-find-the-right-questions/)"**。
 
 尽管我现在的研究议程（research agenda）与发展经济学领域的随机控制实验（randomized control trials，下文简称RCT）紧密相关，但实际上我并非RCT的首倡者，同时我自己也并非从RCT开始职业生涯。
 
