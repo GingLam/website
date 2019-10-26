@@ -42,7 +42,7 @@ mathjax: false
 
 -	<font face="Times New Roman">2019, "Placing Poverty in the Workplace: Employment Characteristics and Working Poor in Urban China" </font>
 -	<font face="Times New Roman">2018, "Flexible Employment, Low Quality Occupation, and the Working Poor in Hong Kong" </font>
--	<font face="Times New Roman">2017, "Occupation Stratification, Living Stratification, and Multi-dimensional  Poverty in China" [[link](https://mp.weixin.qq.com/s?src=11&timestamp=1565747041&ver=1789&signature=Z*lMEmaQhyph5h-8Sb35ppmwgiT4YKlA3Y5kV0-mf6qybvM2v4rdOgOHIVJiuuM5uLmXK6ax4j87UjfVYBiId915gVPe54ytegmht08LsQ8MKRRL4GM1RC1DLb19dP71&new=1)]</font>
+-	<font face="Times New Roman">2017, "Occupation Stratification, Living Stratification, and Multi-dimensional  Poverty in China" [[link](https://mp.weixin.qq.com/s?src=11&timestamp=1572055071&ver=1935&signature=-zVLEDOgEywj3dais4chG68YNyX3*xN9hKWLsBrQQ2WnVAdaBtG1GGJHqU0UK08n0gpDDx1iws*y6UqMClzqfDMGNDanQ22wdaAIx-fzbmFBtm--Ay*krIvUzHxNHicE&new=1)]</font>
 -	<font face="Times New Roman">2017, "History of Nationality in China: A Critical Realism Approach" </font>
 
 
