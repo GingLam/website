@@ -10,7 +10,6 @@ comment: false
 mathjax: false
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
-
 <div align=center><font face="Times New Roman"><h4>Ging LAM 林景</h4></font></div>
 
 <div align=center><strong><font face="Times New Roman"><h4>Employment</h4></font></strong></div>
