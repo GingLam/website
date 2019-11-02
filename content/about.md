@@ -11,6 +11,8 @@ mathjax: false
 ---
 <div align=center><img src="https://raw.githubusercontent.com/GingLam/website/master/static/media/personal.jpg"></div>
 
+<div align=center><font face="Times New Roman"><h4>Ging LAM 林景</h4></font></div>
+
 <div align=center><strong><font face="Times New Roman"><h4>Employment</h4></font></strong></div>
 
 -	<font face="Times New Roman">2019 ~ Present, Assistant Professor, Department of Social Work, Nanjing University Of Finance & Economics, Nanjing</font>
@@ -21,6 +23,10 @@ mathjax: false
 -	<font face="Times New Roman">2013 ~ 2016, MA in Sociology, Wuhan University, Wuhan</font>
 	-	<font face="Times New Roman">2015.9 ~ 2016.1, Exchange Student in Sociology, National Chengchi University, Taipei</font>
 -	<font face="Times New Roman">2009 ~ 2013, BA in Sociology, South China Agricultural University, Guangzhou</font>
+
+<div align=center><strong><font face="Times New Roman"><h4>Teaching Experience</h4></font></strong></div>
+
+-	<font face="Times New Roman">Fall 2019, Social Science Methodology [[link](https://law2019.netlify.com/about/)]</font>
 
 <div align=center><strong><font face="Times New Roman"><h4>Training Experience</h4></font></strong></div>
 
