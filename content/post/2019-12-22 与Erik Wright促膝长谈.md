@@ -90,17 +90,17 @@ Wright：我在牛津大学万灵学院待了六个月，没有任何学术任�
 
 - 《阶级分析的另类基础（ *Alternative Foundation of Class Analysis* ）》。这本书是对阶级分析另类方案的“基础性陈述（foundational statements）”。本书分为6个章节：
 
--   Erik Wright撰写的“受马克思主义启发的阶级分析（Marxist-inspired class analysis）”；
+-     Erik Wright撰写的“受马克思主义启发的阶级分析（Marxist-inspired class analysis）”；
 
--   Richard Breen撰写的“受韦伯启发的阶级分析（Weber-inspired class analysis）”；
+-     Richard Breen撰写的“受韦伯启发的阶级分析（Weber-inspired class analysis）”；
 
--   David Grusky撰写的“首涂尔干主义启发的阶级分析（Durkheim-inspired class analysis）”；
+-     David Grusky撰写的“首涂尔干主义启发的阶级分析（Durkheim-inspired class analysis）”；
 
--   Loic Wacquant撰写的“受布迪厄启发的阶级分析（Bourdieu-inspired class analysis）”;
+-     Loic Wacquant撰写的“受布迪厄启发的阶级分析（Bourdieu-inspired class analysis）”;
 
--   Aage Sorensen撰写的“受新古典主义经济学启发的阶级分析（Neoclassical Economics inspired class analysis）”
+-     Aage Sorensen撰写的“受新古典主义经济学启发的阶级分析（Neoclassical Economics inspired class analysis）”
 
--   Jan Pakulski撰写的“反对阶级分析（Anti-class analysis）”
+-     Jan Pakulski撰写的“反对阶级分析（Anti-class analysis）”
 
 这些作者应该在今年三月初把他们撰写的章节交给我，然后我会给他们发送评论并写一个导读。
 
