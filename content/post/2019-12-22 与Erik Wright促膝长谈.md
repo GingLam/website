@@ -1,8 +1,8 @@
 ---
-title: 与Erik Wright促膝长谈
+title: 与Erik Wright促膝长谈（一）：我的研究背景
 author: GingLam
 date: '2019-12-22'
-slug: 与Erik Wright促膝长谈
+slug: 与Erik Wright促膝长谈（一）：我的研究背景
 categories:
   - Sociology
 tags: []
@@ -102,41 +102,12 @@ Wright：我在牛津大学万灵学院待了六个月，没有任何学术任�
 
 -   Jan Pakulski撰写的“反对阶级分析（Anti-class analysis）”
 
-Kirby：
+这些作者应该在今年三月初把他们撰写的章节交给我，然后我会给他们发送评论并写一个导读。
 
-Wright：
+- “当代美国制度的道德审查（a moral aduit of contemporary American institutions）”。这个项目还在早期阶段。基本上，我想写一本有关当代美国社会的书。这本书从我所教授的课程中发展出来。我的想法是围绕“美国制度的道德审查”来组织这项研究，并且我已经在这方面工作了一段时间——制作了一种与不同制度设置相关的、包含主要价值和潜在价值的伦理表格（ethical chart）。
 
-Kirby：
+- “美国的就业机器（The American jobs machine）”。去年12月，我在《波士顿评论（ *The Boston Review* ）》上发表了一篇关于上世纪90年代美国就业扩张的实证研究。在为社会学期刊撰写一篇更加学术化的论文之前，我还有一大堆关于就业变化的研究论文要读，也还有一些额外的分析要做。
 
-Wright：
-
-Kirby：
-
-Wright：
-
-Kirby：
-
-Wright：
-
-Kirby：
-
-Wright：
-
-Kirby：
-
-Wright：
-
-Kirby：
-
-Wright：
-
-Kirby：
-
-Wright：
-
-Kirby：
-
-Wright：
-
+所以，这就是我正在做的事情。这些事让我一直很忙。
 
 ### 版权所有，转载请联系本站[作者](mailto:linj83@mail2.sysu.edu.cn)
