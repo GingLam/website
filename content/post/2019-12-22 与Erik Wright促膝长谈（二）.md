@@ -16,11 +16,11 @@ contentCopyright: no
 reward: no
 mathjax: no
 ---
-<div align=center><img src=""></div>
+<div align=center><img src="https://raw.githubusercontent.com/GingLam/Storage/master/eow_b.jpg"></div>
 <div align=center>
 </div>
 
-**图片选自**
+**图片选自英国政论杂志《[新政治家（ *New Statesman* ）](https://www.newstatesman.com/2019/01/what-we-can-learn-erik-olin-wright-godfather-universal-basic-income)》**
 
 **作者：Erik Olin Wright, Mark Kirby**
 
