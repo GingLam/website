@@ -20,7 +20,7 @@ mathjax: no
 <div align=center>
 </div>
 
-**图片选自[Matt Vidal的flickr账号](https://www.flickr.com/photos/mattgvidal/2504261600/)**。Wright教授在BBQ。
+**图片选自[Matt Vidal的flickr账号](https://www.flickr.com/photos/mattgvidal/2504261600/)。Wright教授在与学生们BBQ。**
 
 **作者：Erik Olin Wright, Mark Kirby**
 
