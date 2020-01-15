@@ -20,7 +20,7 @@ mathjax: no
 <div align=center>
 </div>
 
-**图片选自美国左翼政论政治[《雅各宾（Jacobin）》](https://www.jacobinmag.com/2019/01/erik-olin-wright-socialism-ideas-higher-education)。**
+**图片选自美国左翼政论杂志[《雅各宾（Jacobin）》](https://www.jacobinmag.com/2019/01/erik-olin-wright-socialism-ideas-higher-education)。**
 
 **作者：Erik Olin Wright, Mark Kirby**
 
