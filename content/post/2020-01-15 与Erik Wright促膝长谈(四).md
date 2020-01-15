@@ -1,8 +1,8 @@
 ---
-title: 与Erik Wright促膝长谈（四）：再议分析性马克思主义
+title: 与Erik Wright促膝长谈（四）：再议分析马克思主义
 author: GingLam
 date: '2020-01-15'
-slug: 与Erik Wright促膝长谈（四）：再议分析性马克思主义
+slug: 与Erik Wright促膝长谈（四）：再议分析马克思主义
 categories:
   - Sociology
 tags: []
